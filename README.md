@@ -1,18 +1,10 @@
-# [Global: HTML5 website template](http://buckymaler.com/global)
+◦ A user-centric interface, facilitating smooth website development for users.
+◦ Integrated a library of pre-built layouts and enabled users to generate custom pages using headers, body
+layouts, and footers.
+◦ Implemented a robust export system to generate clean HTML, CSS, and JavaScript code.
+[LIVE PREVIEW](https://hiteshkumawatpro.github.io/WebEasy/)
 
-### [Featured on Freebiesbug](http://freebiesbug.com/psd-freebies/global-futuristic-one-page-portfolio-psd-html/)
+## Links : 
 
-Global is a modern and sleek website template crafted for professionals in the creative industry. Global can serve as a single page portfolio or be easily modified to serve as the perfect beginning for a hip creative agency.
-
-The original PSD is included and was provided by [Sergey Melnik](https://www.behance.net/SergeyMelnik).
-
-This project was developed with HTML5, Sass, jQuery, and Hammer.js.
-
-Performance basics are covered: assets are minified into single CSS and JS files, and the images are optimized.
-
-[LIVE PREVIEW](http://buckymaler.com/global)
-
-## Misc:
-
-* Follow Bucky: [Twitter](https://twitter.com/BuckyMaler), [GitHub](https://github.com/BuckyMaler)
-* Follow Sergey: [Dribbble](https://dribbble.com/sergeymelnik), [Bēhance](https://www.behance.net/SergeyMelnik)
+Website link : https://hiteshkumawatpro.github.io/WebEasy/
+Direct Software Link : https://drive.google.com/drive/folders/1Enp5JmfRPzx5gFAs-r_U8j2oQilmLpMW?usp=sharing
