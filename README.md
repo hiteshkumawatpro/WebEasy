@@ -3,6 +3,7 @@
 - A user-centric interface, facilitating smooth website development for users.
 - Integrated a library of pre-built layouts, enabling users to generate custom pages using headers, body layouts, and footers.
 - Implemented a robust export system to generate clean HTML, CSS, and JavaScript code.
+- C++ implementation ensures the platform is fast and reliable.
 
 **Live Preview:**
 [LIVE PREVIEW](https://hiteshkumawatpro.github.io/WebEasy/)
