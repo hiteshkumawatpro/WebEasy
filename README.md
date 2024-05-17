@@ -1,4 +1,4 @@
-## WebEasy - User-Friendly Website Development Tool
+## WebEasy - C++ Based User-Friendly Website Development Tool
 
 - A user-centric interface, facilitating smooth website development for users.
 - Integrated a library of pre-built layouts, enabling users to generate custom pages using headers, body layouts, and footers.
