@@ -10,7 +10,7 @@
 
 **Links:**
 - [Website Link](https://hiteshkumawatpro.github.io/WebEasy/)
-- [Direct Software Link](https://drive.google.com/drive/folders/1Enp5JmfRPzx5gFAs-r_U8j2oQilmLpMW?usp=sharing)
+- [Direct Software Link](https://drive.google.com/file/d/1iVgvS_ZmU4t2dbRrpR-RyLripyPP8bLg/view?usp=sharing)
 
 
 **Samples :**
